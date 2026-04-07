@@ -1,114 +1,122 @@
 name: Angular 18
-description: A TypeScript-based web application framework for building dynamic single-page applications
+description: >-
+  A TypeScript-based web application framework for building dynamic single-page applications.
 image: https://angular.io/assets/images/logos/angular/angular.png
 tags:
-- Framework
-- TypeScript
-- SPA
-- Web Development
+  - Framework
+  - TypeScript
+  - SPA
+  - Web Development
 created: '2024-05-22'
 modified: '2024-05-22'
 url: https://angular.io
 specificationVersion: '0.18'
 apis:
-- name: Angular Core API
-  description: Core Angular framework APIs including components, directives, and dependency injection
-  image: https://angular.io/assets/images/logos/angular/angular.png
-  humanUrl: https://angular.io/api/core
-  baseUrl: https://angular.io/api/core
-  tags:
-  - Core
-  - Components
-  - Directives
-  - Dependency Injection
-  properties:
-  - type: Documentation
-    url: https://angular.io/docs
-  - type: OpenAPI
-    url: https://angular.io/api/core
-  - type: GettingStarted
-    url: https://angular.io/start
-- name: Angular Common API
-  description: Common Angular directives and pipes including NgIf, NgFor, DatePipe, etc.
-  humanUrl: https://angular.io/api/common
-  baseUrl: https://angular.io/api/common
-  tags:
-  - Directives
-  - Pipes
-  - Common
-  properties:
-  - type: Documentation
-    url: https://angular.io/api/common
-- name: Angular Router API
-  description: Angular routing and navigation services
-  humanUrl: https://angular.io/api/router
-  baseUrl: https://angular.io/api/router
-  tags:
-  - Routing
-  - Navigation
-  properties:
-  - type: Documentation
-    url: https://angular.io/guide/routing-overview
-  - type: API Reference
-    url: https://angular.io/api/router
-- name: Angular Forms API
-  description: Template-driven and reactive forms APIs
-  humanUrl: https://angular.io/api/forms
-  baseUrl: https://angular.io/api/forms
-  tags:
-  - Forms
-  - Validation
-  - Reactive Forms
-  properties:
-  - type: Documentation
-    url: https://angular.io/guide/forms-overview
-  - type: API Reference
-    url: https://angular.io/api/forms
-- name: Angular HTTP Client API
-  description: HTTP client for making requests and handling responses
-  humanUrl: https://angular.io/api/common/http
-  baseUrl: https://angular.io/api/common/http
-  tags:
-  - HTTP
-  - REST
-  - Ajax
-  properties:
-  - type: Documentation
-    url: https://angular.io/guide/http
-  - type: API Reference
-    url: https://angular.io/api/common/http
-- name: Angular Animations API
-  description: Animation system for creating smooth transitions and effects
-  humanUrl: https://angular.io/api/animations
-  baseUrl: https://angular.io/api/animations
-  tags:
-  - Animations
-  - Transitions
-  properties:
-  - type: Documentation
-    url: https://angular.io/guide/animations
-  - type: API Reference
-    url: https://angular.io/api/animations
+  - name: Angular Core API
+    description: >-
+      Core Angular framework APIs including components, directives, and dependency
+      injection.
+    image: https://angular.io/assets/images/logos/angular/angular.png
+    humanUrl: https://angular.io/api/core
+    baseUrl: https://angular.io/api/core
+    tags:
+      - Core
+      - Components
+      - Directives
+      - Dependency Injection
+    properties:
+      - type: Documentation
+        url: https://angular.io/docs
+      - type: OpenAPI
+        url: https://angular.io/api/core
+      - type: GettingStarted
+        url: https://angular.io/start
+  - name: Angular Common API
+    description: Common Angular directives and pipes including NgIf, NgFor, 
+      DatePipe, etc.
+    humanUrl: https://angular.io/api/common
+    baseUrl: https://angular.io/api/common
+    tags:
+      - Directives
+      - Pipes
+      - Common
+    properties:
+      - type: Documentation
+        url: https://angular.io/api/common
+  - name: Angular Router API
+    description: >-
+      Angular routing and navigation services.
+    humanUrl: https://angular.io/api/router
+    baseUrl: https://angular.io/api/router
+    tags:
+      - Routing
+      - Navigation
+    properties:
+      - type: Documentation
+        url: https://angular.io/guide/routing-overview
+      - type: API Reference
+        url: https://angular.io/api/router
+  - name: Angular Forms API
+    description: >-
+      Template-driven and reactive forms APIs.
+    humanUrl: https://angular.io/api/forms
+    baseUrl: https://angular.io/api/forms
+    tags:
+      - Forms
+      - Validation
+      - Reactive Forms
+    properties:
+      - type: Documentation
+        url: https://angular.io/guide/forms-overview
+      - type: API Reference
+        url: https://angular.io/api/forms
+  - name: Angular HTTP Client API
+    description: >-
+      HTTP client for making requests and handling responses.
+    humanUrl: https://angular.io/api/common/http
+    baseUrl: https://angular.io/api/common/http
+    tags:
+      - HTTP
+      - REST
+      - Ajax
+    properties:
+      - type: Documentation
+        url: https://angular.io/guide/http
+      - type: API Reference
+        url: https://angular.io/api/common/http
+  - name: Angular Animations API
+    description: >-
+      Animation system for creating smooth transitions and effects.
+    humanUrl: https://angular.io/api/animations
+    baseUrl: https://angular.io/api/animations
+    tags:
+      - Animations
+      - Transitions
+    properties:
+      - type: Documentation
+        url: https://angular.io/guide/animations
+      - type: API Reference
+        url: https://angular.io/api/animations
 common:
-- type: GitHub
-  url: https://github.com/angular/angular
-- type: Blog
-  url: https://blog.angular.io
-- type: Twitter
-  url: https://twitter.com/angular
-- type: YouTube
-  url: https://www.youtube.com/angular
-- type: Discord
-  url: https://discord.gg/angular
-- type: StackOverflow
-  url: https://stackoverflow.com/questions/tagged/angular
-- type: CLI
-  url: https://angular.io/cli
-- type: DevTools
-  url: https://angular.io/guide/devtools
-- type: ReleaseNotes
-  url: https://github.com/angular/angular/releases
+  - type: GitHub
+    url: https://github.com/angular/angular
+  - type: Blog
+    url: https://blog.angular.io
+  - type: Twitter
+    url: https://twitter.com/angular
+  - type: YouTube
+    url: https://www.youtube.com/angular
+  - type: Discord
+    url: https://discord.gg/angular
+  - type: StackOverflow
+    url: https://stackoverflow.com/questions/tagged/angular
+  - type: CLI
+    url: https://angular.io/cli
+  - type: DevTools
+    url: https://angular.io/guide/devtools
+  - type: ReleaseNotes
+    url: https://github.com/angular/angular/releases
 maintainers:
-- name: Angular Team
-  email: angular-core@google.com
-  url: https://angular.io/about
+  - name: Angular Team
+    email: angular-core@google.com
+    url: https://angular.io/about

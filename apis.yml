@@ -145,7 +145,7 @@ common:
     type: GitHub
   - url: https://github.com/angular/angular/releases/tag/18.0.0
     name: Angular 18 Release Notes
-    type: Changelog
+    type: ChangeLog
   - url: https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe
     name: Angular v18 Announcement Blog Post
     type: Blog

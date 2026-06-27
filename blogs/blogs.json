@@ -5,14 +5,17 @@
       "source": "https://blog.angular.dev/feed/",
       "feed_url": "https://blog.angular.dev/feed/",
       "title": "",
-      "saved": 0,
+      "saved": 1,
       "method": "feed"
     },
     {
       "source": "https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe",
-      "error": "HTTPError"
+      "feed_url": "https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 16,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 18,
+  "fetched": "2026-06-27T12:03:07Z"
 }

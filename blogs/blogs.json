@@ -10,12 +10,9 @@
     },
     {
       "source": "https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe",
-      "feed_url": "https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "error": "HTTPError"
     }
   ],
-  "post_count": 21,
-  "fetched": "2026-08-06T14:08:46Z"
+  "post_count": 22,
+  "fetched": "2026-08-15T12:22:01Z"
 }

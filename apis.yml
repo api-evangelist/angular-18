@@ -192,7 +192,7 @@ common:
     type: X
 created: '2024-05-22'
 modified: '2026-04-19'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 description: >-
   Angular 18 is a major release of the Angular TypeScript framework, released
   May 22, 2024. Key features include experimental zoneless change detection,

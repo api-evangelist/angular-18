@@ -172,6 +172,8 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/angular-18.png
 access: Open Source
 common:
+  - type: Website
+    url: https://www.angular.dev/
   - type: DomainSecurity
     url: security/angular-18-domain-security.yml
   - url: https://angular.dev/
